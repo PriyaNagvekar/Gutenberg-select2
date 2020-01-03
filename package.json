@@ -1,0 +1,15 @@
+{
+  "name": "guten-load-post-cgb-guten-block",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "cgb-scripts start",
+    "build": "cgb-scripts build",
+    "eject": "cgb-scripts eject"
+  },
+  "dependencies": {
+    "cgb-scripts": "1.22.0",
+    "react-contenteditable": "^3.3.3",
+    "react-select": "^3.0.8"
+  }
+}
